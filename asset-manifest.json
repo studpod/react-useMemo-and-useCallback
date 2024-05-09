@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-useMemo-and-useCallback/static/css/main.dde66085.css",
+    "main.js": "/react-useMemo-and-useCallback/static/js/main.87e72e9e.js",
+    "static/js/453.6d00f4a2.chunk.js": "/react-useMemo-and-useCallback/static/js/453.6d00f4a2.chunk.js",
+    "index.html": "/react-useMemo-and-useCallback/index.html",
+    "main.dde66085.css.map": "/react-useMemo-and-useCallback/static/css/main.dde66085.css.map",
+    "main.87e72e9e.js.map": "/react-useMemo-and-useCallback/static/js/main.87e72e9e.js.map",
+    "453.6d00f4a2.chunk.js.map": "/react-useMemo-and-useCallback/static/js/453.6d00f4a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde66085.css",
+    "static/js/main.87e72e9e.js"
+  ]
+}
